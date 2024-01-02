@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Baithak - RealtimeChatApp.props" />
+</Project>

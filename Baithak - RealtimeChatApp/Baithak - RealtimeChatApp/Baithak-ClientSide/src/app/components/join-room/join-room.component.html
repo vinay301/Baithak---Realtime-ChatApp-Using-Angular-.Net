@@ -1,0 +1,28 @@
+
+  <div class="wrapper fadeInDown">
+    <div id="formContent">
+      <!-- Tabs Titles -->
+      <h2 class="active"> Join the </h2>
+      <h2 class="inactive underlineHover">बैठक
+      </h2>
+  
+      <!-- Icon -->
+      <div class="fadeIn first">
+        <img src="/assets/images/user.svg" id="icon" alt="User Icon" />
+      </div>
+  
+      <!-- Login Form -->
+      <form [formGroup]="joinRoomForm">
+        <input type="text" id="login" class="fadeIn second" name="login" placeholder="Username" formControlName="user">
+        <input type="text" id="password" class="fadeIn third" name="login" placeholder="Room Name" formControlName="room">
+        <input [disabled]="joinRoomForm.invalid" type="submit" class="fadeIn fourth" value="Join" (click)="joinRoom()">
+      </form>
+  
+     
+  
+    </div>
+  </div>
+
+
+
+

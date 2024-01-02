@@ -1,0 +1,46 @@
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\obj\Debug\net7.0\Baithak - RealtimeChatApp.csproj.AssemblyReference.cache
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\bin\Debug\net7.0\appsettings.json
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\bin\Debug\net7.0\Baithak-ClientSide\angular.json
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\bin\Debug\net7.0\Baithak-ClientSide\package-lock.json
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\bin\Debug\net7.0\Baithak-ClientSide\package.json
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\bin\Debug\net7.0\Baithak-ClientSide\tsconfig.app.json
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\bin\Debug\net7.0\Baithak-ClientSide\tsconfig.json
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\bin\Debug\net7.0\Baithak-ClientSide\tsconfig.spec.json
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\bin\Debug\net7.0\Baithak - RealtimeChatApp.exe
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\bin\Debug\net7.0\Baithak - RealtimeChatApp.deps.json
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\bin\Debug\net7.0\Baithak - RealtimeChatApp.runtimeconfig.json
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\bin\Debug\net7.0\Baithak - RealtimeChatApp.dll
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\bin\Debug\net7.0\Baithak - RealtimeChatApp.pdb
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\bin\Debug\net7.0\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\bin\Debug\net7.0\Microsoft.Owin.dll
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\bin\Debug\net7.0\Microsoft.Owin.Security.dll
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\bin\Debug\net7.0\Owin.dll
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\obj\Debug\net7.0\Baithak - RealtimeChatApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\obj\Debug\net7.0\Baithak - RealtimeChatApp.AssemblyInfoInputs.cache
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\obj\Debug\net7.0\Baithak - RealtimeChatApp.AssemblyInfo.cs
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\obj\Debug\net7.0\Baithak - RealtimeChatApp.csproj.CoreCompileInputs.cache
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\obj\Debug\net7.0\Baithak - RealtimeChatApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\obj\Debug\net7.0\Baithak - RealtimeChatApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\obj\Debug\net7.0\staticwebassets\msbuild.Baithak - RealtimeChatApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\obj\Debug\net7.0\staticwebassets\msbuild.build.Baithak - RealtimeChatApp.props
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Baithak - RealtimeChatApp.props
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Baithak - RealtimeChatApp.props
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\obj\Debug\net7.0\scopedcss\bundle\Baithak - RealtimeChatApp.styles.css
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\obj\Debug\net7.0\Baithak - RealtimeChatApp.csproj.CopyComplete
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\obj\Debug\net7.0\Baithak - RealtimeChatApp.dll
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\obj\Debug\net7.0\refint\Baithak - RealtimeChatApp.dll
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\obj\Debug\net7.0\Baithak - RealtimeChatApp.pdb
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\obj\Debug\net7.0\Baithak - RealtimeChatApp.genruntimeconfig.cache
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\obj\Debug\net7.0\ref\Baithak - RealtimeChatApp.dll
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\bin\Debug\net7.0\package-lock.json
+C:\Users\vinaysharma04\OneDrive - Nagarro\Desktop\PersonalProjects\Baithak - Realtime ChatApp\Baithak - RealtimeChatApp\Baithak - RealtimeChatApp\bin\Debug\net7.0\package.json

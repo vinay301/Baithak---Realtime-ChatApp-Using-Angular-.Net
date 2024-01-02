@@ -1,0 +1,88 @@
+<div class='container' ng-cloak ng-app="chatApp">
+  <h1>{{roomName}}, बैठक</h1>
+ 
+  <div class='chatbox' ng-controller="MessageCtrl as chatMessage">
+    <div class='chatbox__user-list'>
+      <h1>User list</h1>
+      <ng-container *ngFor="let user of this.chatService.connectedUsers$ | async">
+        <div class="chat_list">
+          <div class="chat_people">
+            <div class="chat_img"> <img src="https://ptetutorials.com/images/user-profile.png"></div>
+            <div class="chat_ib nt-3">
+              <h5>{{user}}<span class="online"></span>
+                </h5>
+            </div>
+          </div>
+        </div>
+      </ng-container>
+  
+      <div class="chatbox__leave-btn">
+        <button class="btn btn-danger rounded-pill" (click)="leaveChat()">Leave Chat</button>
+      </div>
+    </div>
+   
+    <div class="chatbox__messages" ng-repeat="message in messages">
+      <div class="chatbox__messages__user-message">
+        <div  #scrollMe class="chatbox__messages__user-message--ind-message">
+          <ng-container *ngFor="let message of this.chatService.messages$ | async">
+           
+
+            <div  [ngClass]="{'incoming_msg': message.user != loggedInUserName, 'outgoing_msg': message.user === loggedInUserName}">
+              <div *ngIf="message.user != loggedInUserName" class="incoming_msg_img">
+                <img src="https://ptetutorials.com/images/user-profile.png">
+              </div>
+
+              <div *ngIf="message.user != loggedInUserName" class="received_msg">
+                <div class="received_withd_msg">
+                  <p class="message">{{message.message}}</p>
+                  <br/>
+                  <span class="name">{{message.user}}  | {{message.messageTime | date: 'medium'}}</span>
+                </div>
+              </div>
+
+              <div *ngIf="message.user === loggedInUserName" class="sent_msg">
+                <p>{{message.message}}</p>
+                <span class="time_date">{{message.user}} | {{message.messageTime | date: 'medium'}}</span>
+              </div>
+
+            </div>
+           
+          
+          </ng-container>
+        
+        </div>
+        
+      </div>
+    </div>
+
+    <!-- <div class="mesgs">
+      <div #scrollMe class="msg_history">
+        <ng-container *ngFor="let message of this.chatService.messages$ | async">
+          <div
+            [ngClass]="{'incoming_msg': message.user != loggedInUserName, 'outgoing_msg': message.user === loggedInUserName}">
+            <div *ngIf="message.user != loggedInUserName" class="incoming_msg_img">
+              <img src="https://ptetutorials.com/images/user-profile.png">
+            </div>
+            <div *ngIf="message.user != loggedInUserName" class="received_msg">
+              <div class="received_withd_msg">
+                <p> {{message.message}}</p>
+                <span class="time_date">{{message.user}} | {{message.messageTime | date: 'medium'}}</span>
+              </div>
+            </div>
+            <div *ngIf="message.user === loggedInUserName" class="sent_msg">
+              <p>{{message.message}}</p>
+              <span class="time_date">{{message.user}} | {{message.messageTime | date: 'medium'}}</span>
+            </div>
+          </div>
+        </ng-container>
+      </div>-->
+
+
+    <form>
+     
+      <input (keydown.enter)="sendMessage()" [(ngModel)]="inputMessage" [ngModelOptions]="{standalone: true}" type="text" placeholder="Enter your message">
+      <button (click)="sendMessage()"><mat-icon class="send-icon" aria-hidden="false" aria-label="Example home icon" fontIcon="send"></mat-icon></button>
+    </form>
+  </div>
+
+ 
